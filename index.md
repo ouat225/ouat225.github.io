@@ -1,11 +1,11 @@
-**Data Analyst | Étudiant en Master 2 Statistiques pour l'Évaluation et la Prévision**
+**Data analyste | Étudiant en Master 2 Statistiques pour l'Évaluation et la Prévision**
 
 | 📧 ouattaramjeanmarc@gmail.com | 🔗 [Mon LinkedIn](https://www.linkedin.com/in/minan-jean-marc-ouattara-809061291/) | 🐙 [Mon GitHub](https://github.com/ouat225)
 
 ---
 
 ## 👨‍💻 À propos de moi
-Je suis un Data Analyst doté d'une solide formation en statistiques pour l'évaluation et en analyse économique.
+Je suis un data analyste doté d'une solide formation en économétrie et en analyse économique.
 
 Je conçois des solutions analytiques de bout en bout pour extraire de la valeur des données—allant de la construction de pipelines de nettoyage (ETL) et de l'analyse exploratoire (EDA), jusqu'à la modélisation prédictive (Machine Learning). J'applique ces méthodes à des problématiques variées, telles que l'analyse de marché, l'intelligence client (e-commerce) et l'évaluation de performances.
 
