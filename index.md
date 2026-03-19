@@ -1,7 +1,6 @@
-# Minan Jean-Marc OUATTARA
 **Data Analyst | Étudiant en Master 2 Statistiques pour l'Évaluation et la Prévision**
 
-| 📧 jeanmarcouattar@gmail.com | 🔗 [Mon LinkedIn](https://www.linkedin.com/in/minan-jean-marc-ouattara-809061291/) | 🐙 [Mon GitHub](https://github.com/ouat225)
+| 📧 ouattaramjeanmarc@gmail.com | 🔗 [Mon LinkedIn](https://www.linkedin.com/in/minan-jean-marc-ouattara-809061291/) | 🐙 [Mon GitHub](https://github.com/ouat225)
 
 ---
 
@@ -42,7 +41,7 @@ Actuellement en Master 2, je recherche un stage de fin d'études de 6 mois pour 
 
 ## 💼 Expériences Professionnelles
 
-**Analyste de Marché (Stage)** | *L'Insolite* (Troyes) | 01/2024 - 02/2024
+**Analyste de Marché (Stage)** | *ISLT* (Troyes) | 01/2024 - 02/2024
 * Collecte et interprétation de données clients pour évaluer la demande concurrentielle.
 * Utilisation de R et Python pour l'analyse descriptive et la visualisation.
 * *Outils : R, Python, Excel.*
