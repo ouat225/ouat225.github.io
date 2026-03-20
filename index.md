@@ -181,8 +181,10 @@ layout: null
       <div class="timeline-title">Stagiaire Comptabilité</div>
       <div class="timeline-subtitle">Ambassade de Côte d'Ivoire, Addis-Abeba</div>
       <div class="timeline-desc">• Numérisation, vérification des données comptables et préparation de rapports.</div>
-      <div class="timeline-tools">Outils : Excel</div>
+      <div class="timeline-tools">Outil : Excel</div>
   </div>
+
+</div>
 
 </div>
 
