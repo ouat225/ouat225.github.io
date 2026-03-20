@@ -6,8 +6,27 @@
   
   /* Section Profil */
   .profile-container { display: flex; gap: 40px; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 50px; align-items: center; }
-  .profile-image { flex: 1; max-width: 250px; }
-  .profile-image img { width: 100%; border-radius: 12px; object-fit: cover; }
+  
+  /* --- CORRECTION DE L'IMAGE DE PROFIL (CERCLE PARFAIT ET PAS DE BANDES NOIRES) --- */
+  .profile-image {
+    flex: 0 0 200px; /* Non-flexible, largeur fixe de 200px */
+    width: 200px;
+    height: 200px;
+    overflow: hidden; /* Masque tout ce qui dépasse du cercle */
+    border-radius: 50%; /* Cercle parfait */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Ombre douce */
+    border: 4px solid #fff; /* Anneau blanc élégant */
+    display: flex; /* Centrage de l'image si elle est petite */
+    justify-content: center;
+    align-items: center;
+  }
+  .profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Recadre et remplit sans déformation */
+  }
+  /* --------------------------------------------------------------------------------- */
+
   .profile-text { flex: 2; }
   .profile-title { font-size: 1.5em; color: #007bff; font-weight: bold; margin-bottom: 5px; margin-top: 0;}
   .profile-subtitle { color: #666; font-weight: bold; margin-bottom: 20px; font-size: 1.1em; }
@@ -49,15 +68,15 @@
   }
 </style>
 
-<h1 class="section-title">Professional Profile</h1>
+<h1 class="section-title">Profile Professionel</h1>
 <div class="section-line"></div>
 
 <div class="profile-container">
   <div class="profile-image">
-    <img src="images/photo.jpg" alt="Jean-Marc Ouattara" onerror="this.style.display='none'">
+    <img src="images/photo.jpg" alt="Minan Jean-Marc Ouattara" onerror="this.style.display='none'">
   </div>
   <div class="profile-text">
-    <p class="profile-title">Jean-Marc OUATTARA</p>
+    <p class="profile-title">Minan Jean-Marc OUATTARA</p>
     <p class="profile-subtitle">Data analyste • Étudiant en Master 2 Statistiques</p>
     <p>Je suis un data analyste doté d'une solide formation en économétrie et en analyse économique.</p>
     <p>Je conçois des solutions analytiques de bout en bout pour extraire de la valeur des données—allant de la construction de pipelines de nettoyage (ETL) et de l'analyse exploratoire (EDA), jusqu'à la modélisation prédictive (Machine Learning). J'applique ces méthodes à des problématiques variées, telles que l'analyse de marché, l'intelligence client (e-commerce) et l'évaluation de performances.</p>
@@ -67,7 +86,7 @@
   </div>
 </div>
 
-<h2 class="section-title">Projects</h2>
+<h2 class="section-title">Projets</h2>
 <div class="section-line"></div>
 <p style="text-align: center; margin-bottom: 40px; color: #666;">Voici une sélection de mes projets en data analysis, modélisation et développement d'applications.</p>
 
@@ -76,7 +95,7 @@
   <div class="project-card">
     <h3 class="project-title">NFL Offense Analytics (2005-2024)</h3>
     <div class="project-desc">
-      <strong>Pipeline Data complet (End-to-End) sur des données sportives web-scrapées.</strong><br><br>
+      <strong>Pipeline de données complète (End-to-End) sur des données sportives web-scrapées.</strong><br><br>
       Missions : Nettoyage (ETL), feature engineering, analyse exploratoire (EDA) et modélisation prédictive (Random Forest) des performances offensives. Intégration d'un dashboard interactif et d'une API.
     </div>
     <div class="btn-group">
@@ -111,7 +130,7 @@
 
 </div>
 
-<h2 class="section-title">My Background</h2>
+<h2 class="section-title">Mon Parcours</h2>
 <div class="section-line"></div>
 
 <div class="background-grid">
@@ -133,10 +152,10 @@
   </div>
 
   <div class="timeline-col">
-    <h3>Professional Experience</h3>
+    <h3>Expériences Professionnelles</h3>
     
     <div class="timeline-item">
-      <div class="timeline-date">01/2024 - 02/2024</div>
+      <div class="timeline-date">01/2024 - 03/2024</div>
       <div class="timeline-title">Analyste de Marché (Stage)</div>
       <div class="timeline-subtitle">ISLT, Troyes</div>
       <div class="timeline-desc">• Collecte et interprétation de données clients pour évaluer la demande concurrentielle.</div>
