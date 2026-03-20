@@ -72,7 +72,7 @@ layout: null
   }
 </style>
 
-<h1 class="section-title">Profile Professionel</h1>
+<h1 class="section-title">Profil Professionel</h1>
 <div class="section-line"></div>
 
 <div class="profile-container">
@@ -81,18 +81,18 @@ layout: null
   </div>
   <div class="profile-text">
     <p class="profile-title">Minan Jean-Marc OUATTARA</p>
-    <p class="profile-subtitle">Data analyste • Étudiant en Master 2 Statistiques</p>
-    <p>Je suis un data analyste doté d'une solide formation en économétrie et en analyse économique.</p>
-    <p>Je conçois des solutions analytiques de bout en bout pour extraire de la valeur des données—allant de la construction de pipelines de nettoyage (ETL) et de l'analyse exploratoire (EDA), jusqu'à la modélisation prédictive (Machine Learning). J'applique ces méthodes à des problématiques variées, telles que l'analyse de marché, l'intelligence client (e-commerce) et l'évaluation de performances.</p>
+    <p class="profile-subtitle">Data analyst</p>
+    <p>Je suis un data analyst doté d'une solide formation en économétrie et en analyse économique.</p>
+    <p>Je conçois des solutions analytiques de bout en bout pour extraire de la valeur des données allant de la construction de pipelines de nettoyage (ETL) et de l'analyse exploratoire (EDA), jusqu'à la modélisation prédictive (Machine Learning). J'applique ces méthodes à des problématiques variées, telles que l'analyse de marché, l'intelligence client (e-commerce) et l'évaluation de performances.</p>
     <p>Au-delà de l'analyse statistique, j'attache une grande importance à l'industrialisation et à la restitution de mes travaux. Je développe des applications interactives (Streamlit), crée des API REST (FastAPI) pour l'intégration des modèles, et assure la reproductibilité de mes environnements (Docker, Poetry).</p>
-    <p><strong>Actuellement en Master 2, je recherche un stage de fin d'études de 6 mois pour transformer vos données en leviers stratégiques.</strong></p>
+    <p><strong> Actuellement en Master 2 Statistiques pour l'Évaluation et la Prévison, je recherche un stage de fin d’études pour contribuer à la valorisation de vos données et soutenir vos décisions stratégiques.</strong></p>
     <div class="tech-stack"><strong>Stack Technique :</strong> Python (Pandas, Scikit-Learn, FastAPI, Streamlit), SQL, Power BI, R, Excel (VBA), Docker.</div>
   </div>
 </div>
 
 <h2 class="section-title">Projets</h2>
 <div class="section-line"></div>
-<p style="text-align: center; margin-bottom: 40px; color: #666;">Voici une sélection de mes projets en data analysis, modélisation et développement d'applications.</p>
+<p style="text-align: center; margin-bottom: 40px; color: #666;">Voici une sélection de mes projets en analyse de données, modélisation et développement d'applications.</p>
 
 <div class="projects-grid">
   
@@ -140,7 +140,7 @@ layout: null
 <div class="background-grid">
   
   <div class="timeline-col">
-    <h3>Education</h3>
+    <h3>Études</h3>
     
     <div class="timeline-item">
       <div class="timeline-date">2024 - 2026</div>
@@ -181,7 +181,7 @@ layout: null
       <div class="timeline-title">Stagiaire Comptabilité</div>
       <div class="timeline-subtitle">Ambassade de Côte d'Ivoire, Addis-Abeba</div>
       <div class="timeline-desc">• Numérisation, vérification des données comptables et préparation de rapports.</div>
-    </div>
+      <div class="timeline-tools">Outils : Excel</div>
   </div>
 
 </div>
