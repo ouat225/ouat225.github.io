@@ -1,4 +1,4 @@
-**Data analyste | Étudiant en Master 2 Statistiques pour l'Évaluation et la Prévision**
+**Data analyste • Étudiant en Master 2 Statistiques pour l'Évaluation et la Prévision**
 
 | 📧 ouattaramjeanmarc@gmail.com | 🔗 [Mon LinkedIn](https://www.linkedin.com/in/minan-jean-marc-ouattara-809061291/) | 🐙 [Mon GitHub](https://github.com/ouat225)
 
