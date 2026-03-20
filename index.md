@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <style>
   body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
   h1, h2, h3 { color: #111; text-align: center; }
@@ -23,7 +26,8 @@
   .profile-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Recadre et remplit sans déformation */
+    object-fit: cover; 
+    object-position: center 15%; /* Magie : indique au site de viser le "haut" de l'image là où se trouve le visage */
   }
   /* --------------------------------------------------------------------------------- */
 
