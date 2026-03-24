@@ -81,7 +81,7 @@ layout: null
   </div>
   <div class="profile-text">
     <p class="profile-title">Minan Jean-Marc OUATTARA</p>
-    <p class="profile-subtitle">Data analyste</p>
+    <p class="profile-subtitle">Data scientst</p>
     <p>Je suis un data scientist doté d'une solide formation en économétrie et en analyse économique.</p>
     <p>Je conçois des solutions analytiques de bout en bout pour extraire de la valeur des données allant de la construction de pipelines de nettoyage (ETL) et de l'analyse exploratoire (EDA), jusqu'à la modélisation prédictive (Machine Learning). J'applique ces méthodes à des problématiques variées, telles que l'analyse de marché, l'intelligence client (e-commerce) et l'évaluation de performances.</p>
     <p>Au-delà de l'analyse statistique, j'attache une grande importance à l'industrialisation et à la restitution de mes travaux. Je développe des applications interactives (Streamlit), crée des API REST (FastAPI) pour l'intégration des modèles, et assure la reproductibilité de mes environnements (Docker, Poetry).</p>
