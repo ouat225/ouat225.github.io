@@ -144,7 +144,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">2024 - 2026</div>
-      <div class="timeline-title">Master 2 Statistiques pour l'Évaluation et la Prévision</div>
+      <div class="timeline-title">Master Statistiques pour l'Évaluation et la Prévision</div>
       <div class="timeline-subtitle">Université de Reims Champagne-Ardenne</div>
     </div>
     
