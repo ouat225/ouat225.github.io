@@ -103,7 +103,7 @@ layout: null
       Missions : Nettoyage (ETL), feature engineering, analyse exploratoire (EDA) et modélisation prédictive (Random Forest) des performances offensives. Intégration d'un dashboard interactif et d'une API.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/the-redzone-predictor" class="btn" target="_blank">GitHub Repo</a>
+      <a href="https://github.com/ouat225/the-redzone-predictor" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Python, Scikit-Learn, Streamlit, FastAPI, Pytest.</div>
   </div>
@@ -115,7 +115,7 @@ layout: null
       Missions : Réalisation d'analyses statistiques univariées et multivariées. Développement d'une application de visualisation. Gestion rigoureuse de l'environnement avec Poetry et intégration de tests unitaires.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/management-de-projets-digitaux" class="btn" target="_blank">GitHub Repo</a>
+      <a href="https://github.com/ouat225/management-de-projets-digitaux" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Python, Streamlit, Poetry, Pytest, Pandas.</div>
   </div>
@@ -127,9 +127,21 @@ layout: null
       Missions : Modélisation mathématique (taux de croissance/compétition). Création d'une API REST pour exposer les données et d'un tableau de bord, le tout entièrement conteneurisé.
     </div>
     <div class="btn-group">
-      <a href="https://github.com/ouat225/ecosysteme-des-donnees" class="btn" target="_blank">GitHub Repo</a>
+      <a href="https://github.com/ouat225/ecosysteme-des-donnees" class="btn" target="_blank">Repo GitHub</a>
     </div>
     <div class="project-tools">Outils : Python, Docker, FastAPI, Streamlit, NumPy.</div>
+  </div>
+
+  <div class="project-card">
+    <h3 class="project-title">Smart Metro</h3>
+    <div class="project-desc">
+      <strong>Modélisation et optimisation de structures de réseaux complexes.</strong><br><br>
+      Missions : Représentation du réseau de transport sous forme de graphe (nœuds et arêtes), implémentation d'algorithmes de plus court chemin (Dijkstra) et analyse de la centralité pour identifier les nœuds critiques du réseau.
+    </div>
+    <div class="btn-group">
+      <a href="https://github.com/ouat225/metro" class="btn" target="_blank">Repo GitHub</a>
+    </div>
+    <div class="project-tools">Outils : Python, NetworkX (Graph Theory), Matplotlib, Algorithmique.</div>
   </div>
 
 </div>
@@ -160,7 +172,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">01/2024 - 03/2024</div>
-      <div class="timeline-title">Analyste de Marché (Stage)</div>
+      <div class="timeline-title">Analyste de marché (Stage)</div>
       <div class="timeline-subtitle">ISLT, Troyes</div>
       <div class="timeline-desc">• Collecte et interprétation de données clients pour évaluer la demande concurrentielle.</div>
       <div class="timeline-desc">• Utilisation de R et Python pour l'analyse descriptive et la visualisation.</div>
@@ -169,7 +181,7 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">06/2022 - 09/2022</div>
-      <div class="timeline-title">Stagiaire E-commerce Analyste</div>
+      <div class="timeline-title">Analyste e-commerce (Stage)</div>
       <div class="timeline-subtitle">DASH, Abidjan</div>
       <div class="timeline-desc">• Analyse des ventes et des comportements clients pour identifier les leviers de croissance.</div>
       <div class="timeline-desc">• Suivi des KPI et analyse des performances pour la stratégie marketing digitale.</div>
@@ -178,10 +190,10 @@ layout: null
     
     <div class="timeline-item">
       <div class="timeline-date">06/2020 - 08/2020</div>
-      <div class="timeline-title">Stagiaire Comptabilité</div>
+      <div class="timeline-title">Assistant comptable (Stage)</div>
       <div class="timeline-subtitle">Ambassade de Côte d'Ivoire, Addis-Abeba</div>
       <div class="timeline-desc">• Numérisation, vérification des données comptables et préparation de rapports.</div>
-      <div class="timeline-tools">Outil : Excel</div>
+      <div class="timeline-tools">Outil : Excel (Reporting)</div>
   </div>
 
 </div>
